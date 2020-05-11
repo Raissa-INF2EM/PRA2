@@ -1,0 +1,48 @@
+package com.website;
+public class Website(int id , string creationdate , string url , string topic , int grade){
+     mId = id;
+     mCreationdate = creationdate;
+     mUrl = url;
+     mTopic = topic;
+     mGrade = grade;
+}
+ public int getId() {
+        return mId;
+    }
+
+    public void setId(int id) {
+        mId = id;
+    }
+
+    public String getCreationdate() {
+        return mCreationdate;
+    }
+
+    public void setCreationdate(String creationdate) {
+        mCreationdate = creationdate;
+    }
+
+    public String getUrl() {
+        return mUrl;
+    }
+
+    public void setUrl(String Url) {
+        mUrl = url;
+    }
+
+    public String getTopic() {
+        return mTopic;
+    }
+
+    public void setTopic(string Topic) {
+        mTopic = topic;
+ 
+    public Int getGrade() {
+        return mGrade;
+    }
+
+    public void setGrade(int Grade) {
+        mGrade = grade;
+    }
+
+    
